@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiya Shah</h1>
-<h3 align="center">🔭 I'm a Web Developer & AI/ML Enthusiast 🌱 Learning to combine AI with powerful, user-friendly web experiences.</h3>
+<h3 align="center">🔭 I'm a Web Developer & AI/ML Enthusiast </h3>
 
 - 🔭 I’m currently working on **improving my skills.**
 
