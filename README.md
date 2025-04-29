@@ -62,8 +62,8 @@
 
 ---
 
+### 📊 GitHub Stats:
 
-### 🐍 GitHub Contribution Snake:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiya0805&show_icons=true&locale=en&layout=compact" alt="jiya0805" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiya0805&show_icons=true&locale=en" alt="jiya0805" /></p>
 
-```md
-![snake gif](https://github.com/jiya0805/jiya0805/blob/output/github-contribution-grid-snake.svg)
