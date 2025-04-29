@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiya Shah</h1>
-<h3 align="center">🔭 I'm a Web Developer & AI/ML Enthusiast </h3>
+<h3 align="center">🔭 I'm a Web Developer & AI/ML Enthusiast</h3>
 
 - 🔭 I’m currently working on **improving my skills.**
 
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiya0805&show_icons=true&locale=en&layout=compact" alt="jiya0805" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiya0805&show_icons=true&locale=en" alt="jiya0805" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiya0805&" alt="jiya0805" /></p>
